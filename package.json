@@ -1,0 +1,15 @@
+{
+  "name": "jsaqa-7-02-nodejs",
+  "version": "1.0.0",
+  "description": "Netology homework 7.2: Node.js and VS Code debugger setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint index.js",
+    "format": "prettier --write index.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "prettier": "^3.3.3"
+  }
+}
