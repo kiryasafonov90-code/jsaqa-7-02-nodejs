@@ -1,0 +1,14 @@
+{
+  "name": "jsaqa-7-04-puppeteer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Netology homework 7.4: Puppeteer timeouts and hooks",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "jest-puppeteer": "^6.0.3",
+    "puppeteer": "^13.7.0"
+  }
+}
