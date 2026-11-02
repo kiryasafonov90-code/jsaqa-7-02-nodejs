@@ -5,6 +5,7 @@
     "source.fixAll.eslint": "explicit"
   },
   "eslint.validate": ["javascript"],
+  "eslint.run": "onType",
   "files.exclude": {
     "**/node_modules": true
   }
