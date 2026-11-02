@@ -10,7 +10,18 @@
   "rules": {
     "no-unused-vars": "error",
     "no-undef": "error",
-    "semi": ["error", "always"],
-    "quotes": ["error", "single", { "avoidEscape": true }]
+    "semi": [
+      "error",
+      "always"
+    ],
+    "quotes": [
+      "error",
+      "single",
+      {
+        "avoidEscape": true
+      }
+    ],
+    "no-trailing-spaces": "error",
+    "no-multi-spaces": "error"
   }
 }
